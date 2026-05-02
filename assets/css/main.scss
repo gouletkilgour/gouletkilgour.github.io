@@ -42,10 +42,6 @@
     "vendor/font-awesome/brands"
 ;
 
-html, body {
-  height: 100%;
-}
-
-#page-wrapper, .page-wrap, .initial-content {
-  min-height: calc(100vh - 200px);
+body {
+  margin-bottom: 0 !important;
 }
