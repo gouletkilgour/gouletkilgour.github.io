@@ -42,10 +42,17 @@
     "vendor/font-awesome/brands"
 ;
 
-.page__footer, footer.page__footer {
-  display: none !important;
+/* Change page/post title colour */
+h1, h2, h3 {
+  color: #2a7ae2; /* example: a blue */
 }
 
-.sidebar {
-  width: 250px !important;
+/* More specifically, just the main page title */
+.page__title {
+  color: #2a7ae2;
+}
+
+/* Site title in the sidebar */
+.author__name {
+  color: #2a7ae2;
 }
