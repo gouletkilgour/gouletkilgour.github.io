@@ -41,3 +41,14 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+@import
+    "vendor/breakpoint/breakpoint",
+    ...
+    "vendor/font-awesome/brands"
+;
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;700&display=swap');
+
+body { font-family: 'Lora', serif; }
+h1, h2, h3, .site-title, .masthead { font-family: 'Inter', sans-serif; }
