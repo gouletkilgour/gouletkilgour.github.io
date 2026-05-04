@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome!
 
 I am a PhD student at the University of British Columbia's Vancouver School of Economics. My research interests fall within labour economics, political economy, and public economics. 
 
